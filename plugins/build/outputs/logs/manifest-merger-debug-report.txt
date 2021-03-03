@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml:1:1-2:38
+INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml:1:1-2:38
+INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml:1:1-2:38
+	package
+		ADDED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+		ADDED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+		ADDED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajeevkumar/Desktop/Android/WitiTude/plugins/src/main/AndroidManifest.xml

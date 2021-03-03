@@ -1,0 +1,4 @@
+include ':wikitude-native-sdk'
+include ':app'
+include ':plugins'
+rootProject.name = "WitiTude"
